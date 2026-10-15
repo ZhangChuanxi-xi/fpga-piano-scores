@@ -1,0 +1,29 @@
+{
+  "schema": "fpga-piano-catalog-v1",
+  "songs": [
+    {
+      "id": 2,
+      "title": "TWINKLE",
+      "file": "TWINKLE.json",
+      "event_count": 14,
+      "duration_ms": 7850,
+      "byte_length": 120
+    },
+    {
+      "id": 3,
+      "title": "ODE TO JOY",
+      "file": "ODE_TO_JOY.json",
+      "event_count": 62,
+      "duration_ms": 32900,
+      "byte_length": 504
+    },
+    {
+      "id": 4,
+      "title": "CLOUD HORIZON",
+      "file": "CLOUD_HORIZON.json",
+      "event_count": 32,
+      "duration_ms": 19500,
+      "byte_length": 264
+    }
+  ]
+}
