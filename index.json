@@ -24,6 +24,22 @@
       "event_count": 32,
       "duration_ms": 19500,
       "byte_length": 264
+    },
+    {
+      "id": 901,
+      "title": "星河漫步（原创长曲测试）",
+      "file": "Starlight_Walk_Original_LongTest.json",
+      "event_count": 512,
+      "duration_ms": 256450,
+      "byte_length": 4104
+    },
+    {
+      "id": 902,
+      "title": "晨光回旋（原创长曲测试）",
+      "file": "Morning_Rondo_Original_LongTest.json",
+      "event_count": 1024,
+      "duration_ms": 512800,
+      "byte_length": 8200
     }
   ]
 }
