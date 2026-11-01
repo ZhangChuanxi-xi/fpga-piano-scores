@@ -40,6 +40,22 @@
       "event_count": 1024,
       "duration_ms": 512800,
       "byte_length": 8200
+    },
+    {
+      "id": 903,
+      "title": "晨风小径",
+      "event_count": 84,
+      "duration_ms": 24400,
+      "byte_length": 680,
+      "file": "Morning_Breeze_Demo.json"
+    },
+    {
+      "id": 904,
+      "title": "星光圆舞",
+      "event_count": 128,
+      "duration_ms": 29300,
+      "byte_length": 1032,
+      "file": "Starlight_Waltz_Demo.json"
     }
   ]
 }
